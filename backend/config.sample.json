@@ -1,0 +1,40 @@
+{
+	"general": {
+		"admin": ""
+	},
+	"server": {
+		"host": "",
+		"port": ":",
+		"url": ""
+	},
+	"database": {
+		"host": "",
+		"port": ":",
+		"username": "",
+		"password": "",
+		"db": ""
+	},
+	"gitlab": {
+		"host": "",
+		"token": ""
+	},
+	"ldap": {
+		"host": "",
+		"pass": "",
+		"field": {
+			"id": "",
+			"first_name": "",
+			"last_name": "",
+			"mail": "",
+			"ldap_uid": ""
+		},
+		"domain": {
+			"base": "",
+			"query": ""
+		},
+		"filter": {
+			"employees": "",
+			"students": ""
+		}
+	}
+}
